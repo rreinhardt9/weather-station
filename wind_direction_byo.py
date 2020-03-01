@@ -72,5 +72,5 @@ def get_value(period=5):
             #     print("Unknown Value", wind)
     return get_average(values)
 
-while True:
-    print(get_value(3))
+# while True:
+#     print(get_value(3))
